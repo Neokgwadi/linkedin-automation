@@ -1,1 +1,9 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
 
+# Playwright
+playwright-report/
+test-results/
