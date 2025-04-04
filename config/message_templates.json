@@ -1,1 +1,6 @@
-
+{
+  "connection_request": [
+    "Hi {name}, I admire your work at {company}!",
+    "Hello {name}, noticed we both work in {industry}."
+  ]
+}
